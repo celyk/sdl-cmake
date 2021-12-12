@@ -15,7 +15,7 @@ public class MainActivity extends org.libsdl.app.SDLActivity {
     protected String[] getLibraries() {
         return new String[]{
                 "SDL2",
-                "Game"
+                "App"
         };
     }
 }

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.2)
 
-project(Game)
+project(App)
 
 set(CMAKE_FIND_ROOT_PATH_MODE_LIBRARY BOTH)
 set(CMAKE_FIND_ROOT_PATH_MODE_INCLUDE BOTH)
